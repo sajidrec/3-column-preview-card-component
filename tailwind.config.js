@@ -8,7 +8,7 @@ module.exports = {
         "Lexend_Deca": ["Lexend Deca", "sans-serif"]
       },
       screens: {
-        "desktop": "376px"
+        "desktop": "481px"
       },
       colors: {
         "custom-Bright-orange": "hsl(31, 77%, 52%)",
